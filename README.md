@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebo2008
 - 👀 I’m interested in evrything C# related
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on your suggestions
 - 📫 How to reach me via Instagram @Sebo2008
 - 😄 Pronouns: He/Him
